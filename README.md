@@ -1,2 +1,1 @@
-# Laboratorio Git
-Questa è una nuova riga scritta nel feature branch.
+Modifica del collega fatta sul server
